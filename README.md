@@ -4,7 +4,7 @@ Description: Everyone that has money needs a way to keep track of it.  To help w
 
 ![Alt text](/public/icons/screenshot.png)
 
-heroku link: https://shielded-lowlands-05735.herokuapp.com/
+heroku link: https://fast-badlands-88898.herokuapp.com/
 
 License:
 
